@@ -1,0 +1,16 @@
+.label {
+    display: block;
+    margin-bottom: 0.5rem;
+
+    
+    &.input {
+        margin: 10px;   
+    }
+
+}
+.input {
+    color:green;
+}
+.error {
+    border-color: red;
+}
